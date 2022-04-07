@@ -5,4 +5,4 @@
 - Apples
 - Cookies
 - Salt
-Peppet
+Pepper
