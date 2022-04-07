@@ -1,2 +1,2 @@
 # shopping-list
-Exercise Week 2 
+Exercise for Week 2 
